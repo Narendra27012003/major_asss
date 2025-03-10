@@ -1,0 +1,5 @@
+requests
+python-docx
+python-dotenv
+langchain
+langchain-groq
